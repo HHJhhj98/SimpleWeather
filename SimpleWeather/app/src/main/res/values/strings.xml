@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">SimpleWeather</string>
+    <string name="title_activity_splash">SplashActivity</string>
+    <string name="title_activity_trend">TrendActivity</string>
+    <string name="title_setting">setting</string>
+    <string name="title_activity_back">BackActivity</string>
+    <string name="title_activity_welcome">WelcomeActivity</string>
+    <string name="title_about">about</string>
+
+
+    <!-- TODO: Remove or change this placeholder text -->
+
+</resources>

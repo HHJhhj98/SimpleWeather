@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">简单天气</string>
+    <string name="title_activity_splash">欢迎</string>
+    <string name="title_activity_trend">一周气温趋势</string>
+    <string name="title_setting">设置</string>
+    <string name="title_activity_back">意见反馈</string>
+    <string name="title_about">关于</string>
+    <string name="title_activity_welcome">欢迎</string>
+</resources>
